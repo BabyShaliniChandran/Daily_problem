@@ -1,0 +1,7 @@
+,Order_id,Product,Quantity_ordered,Price_each,Order_date,Purchase_address,Street,City,State,Total_price
+0,176558.0,USB-C Cable,2,11.95,2019-04-19 08:46:00,"917 1st St, Dallas, TX",917 1st St, Dallas, TX,142.80249999999998
+2,176559.0,iPhone,1,700.0,2019-04-19 09:25:00,"682 Chestnut St, Boston",682 Chestnut St, Boston,,490000.0
+3,176560.0,Lightning,2,14.95,2019-04-19 00:00:00,"669 Spruce St, LA, CA",669 Spruce St, LA, CA,223.50249999999997
+4,176561.0,Wired Headphones,3,29.99,2019-04-19 10:15:00,"123 Elm St, Seattle, WA",123 Elm St, Seattle, WA,899.4001
+5,176562.0,Macbook Pro,1,153.76800000000003,2019-04-19 11:00:00,"456 Oak St, New York, NY",456 Oak St, New York, NY,23644.597824000008
+6,176563.0,USB-C Cable,1,11.95,2019-04-19 00:00:00,"789 Pine St, Austin, TX",789 Pine St, Austin, TX,142.80249999999998
