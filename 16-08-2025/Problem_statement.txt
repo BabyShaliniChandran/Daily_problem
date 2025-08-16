@@ -1,0 +1,7 @@
+Tasks:
+Remove rows with missing values.
+Fix the Quantity Ordered column where "two" should be converted to 2.
+Convert Order Date to datetime format.
+Split Purchase Address into Street, City, and State.
+Convert Quantity Ordered and Price Each to numeric types.
+Create a new column Total Price = Quantity × Price.
